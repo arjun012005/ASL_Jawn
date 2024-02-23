@@ -1,0 +1,2 @@
+You run the file called tests.py and wait for the camera to turn on. You might have to import all the libraries including mediapipe
+and tensorflow in order to get the system working. Then you simply experiment with the sign language equivalences of A,B, and C. 
